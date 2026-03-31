@@ -13,12 +13,12 @@
              width: 380px;
              height: 160px;
   }
-         section{
+         section {
                 /*tamanho vertical*/
              height: 500px;
 
              /*atributos da imagem*/
-             background-image: url(https://wallpapercave.com/wp/wp12896967.jpg);
+             background-image: url("../assets/wp12896967.jpg");
              background-size: cover;
              background-position: center;
              background-repeat: no-repeat;
