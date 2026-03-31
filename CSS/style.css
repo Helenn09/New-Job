@@ -1,0 +1,97 @@
+.roboto-400 {
+     font-family: "Roboto", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+     font-variation-settings:
+     "wdth" 100;
+}
+
+.header-style {
+     padding-left: 35px;
+     padding-right: 35px;
+     background: white;
+     display: flex; 
+     justify-content: space-between;
+     align-items: center;
+}
+
+/*Classes de alinhamento */
+
+.container {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+.center {
+     display: flex;
+     align-items: center;
+}
+
+/*Classes de botões*/
+
+.button-style01 {
+     background: rgb(102, 178, 226);
+     border: 1px solid #0A0E110D; 
+     margin-right: 5px;
+     padding: 18px;
+     border-radius: 30px;
+     border: none
+} 
+
+.button-style {
+     padding: 18px;
+     border: 1px solid #0A0E110D;
+     border-radius: 30px; 
+     border: none
+}
+
+.h1-style {
+     font-size: 35px; 
+     color:white;
+     padding-bottom: 5px;
+     padding-left: 300px
+}
+
+/*Classes de alinhamento */
+
+.text-center{
+     position: relative;
+     text-align: center;  
+}
+
+.bg-panel {
+     background: white;
+}
+
+a {
+     
+     text-decoration: none;
+     color: #202020;
+}
+
+.capition{
+    font-size: 13px;
+    color: gray
+}
+
+.bt-1 {
+     border: 1px solid gray;
+     padding: 10px;
+     border-radius: 4px;
+     background: rgb(17, 52, 168);
+     width: 90%;
+}
+
+.bt-google {
+     border: 1px solid gray;
+     padding: 10px;
+     border-radius: 4px;
+     background: white;
+     margin: 20px;
+     width: 90%;
+}
+
+

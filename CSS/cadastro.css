@@ -1,0 +1,65 @@
+
+     .style-voltar{
+    text-decoration: none;
+    color: rgb(60, 60, 231);
+
+}
+    .img-style{
+        width: 180px;
+        height: 100px;
+    }
+    .header-style{
+        padding-left: 20px;
+        padding-right: 20px;
+        background: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .left-header{
+        display: flex;
+        align-items: center;
+    }
+    .tam-icon{
+        width: 10%;
+    }
+    .tam-text{
+        width: 80%;
+    }   
+    .top{
+        top: 100px;
+        position: relative;
+    }   
+    .bg-page{
+        background: rgb(53, 98, 196);
+    }
+
+    .digite-email {
+        color: gray;
+    }
+
+    .input-email {
+        width: 90%;
+        margin: 20px;
+        height: 35px;  
+    }
+
+    .bt-google {
+        border: 1px solid gray;
+        padding: 10px;
+        border-radius: 4px;
+        background: white;
+        margin: 20px;
+        width: 90%;
+    }
+
+    .borda {
+        border-radius: 20px;
+        width: 400px;
+        border: 1px solid black;
+    }
+        
+    .criar-conta {
+        display: flex;
+        justify-content: center;
+    }
